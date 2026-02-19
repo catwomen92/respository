@@ -1,0 +1,8 @@
+Start
+Input number N
+if n >0= display positive
+else
+N <0 =display negative
+else display 0
+stop
+

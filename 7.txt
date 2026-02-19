@@ -1,0 +1,9 @@
+start
+input length
+input width
+input area
+enter length
+enter width
+area=lengthxwidth
+display =area
+end

@@ -1,0 +1,9 @@
+start
+declare average
+user enter marks
+input average
+if average >50 then print pass
+else
+print fail
+end
+

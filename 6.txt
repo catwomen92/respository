@@ -1,0 +1,9 @@
+Start
+sum=0
+Repeat 7times
+input temp
+sum=sum+temp
+end repeat
+average = sum/7
+output average
+end

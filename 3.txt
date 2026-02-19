@@ -1,0 +1,7 @@
+Start
+Input N
+i = 1
+if i<10 do
+Display N x i
+i = i +1
+End

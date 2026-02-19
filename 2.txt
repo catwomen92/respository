@@ -1,0 +1,6 @@
+Start
+input subject1, subject 2, subject 3
+Total= subject1, subj2, subj3
+Average=total /3
+Display total, average
+End
